@@ -1,0 +1,24 @@
+.h-5 {
+    height: 5rem;
+}
+
+.h-7 {
+    height: 7rem;
+}
+
+.bg-lightBlue {
+    background-color: aqua;
+}
+
+#number {
+    width: 4em;
+}
+
+h3 {
+    text-align: left;
+    float: left;
+}
+
+p {
+    text-align: right;
+}
